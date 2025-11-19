@@ -1,6 +1,7 @@
 {
   "name": "fintrack-backend-node",
   "version": "0.1.0",
+  "type": "module",
   "description": "Minimal Node.js backend for FinTrack: Auth + JWT + Postgres",
   "main": "src/index.js",
   "scripts": {
